@@ -15,9 +15,9 @@ Projeto desenvolvido em React.JS usando a API pública da Marvel.
 # Variáveis de Ambiente
 Para rodar o projeto, você vai precisar utilizar as seguintes variáveis de ambiente dentro do seu código:
 
-API_KEY_PUBLIC Pode ser gerado no site da Marvel API Marvel
+API_KEY_PUBLIC Pode ser gerado no site da Marvel API `Marvel`
 
-API_KEY_PRIVATE Pode ser gerado no site da Marvel API Marvel
+API_KEY_PRIVATE Pode ser gerado no site da Marvel API `Marvel`
 
 # Rodar Localmente
 Clone o projeto
@@ -26,14 +26,15 @@ Clone o projeto
 
 Instale as dependências
 
-  npm install
+  `npm install`
   
 Inicie o servidor
 
-  npm start
+  `npm start`
   
 # Stacks utilizadas:
 React.js,axios,css,html,javascript e @mui/
+
 <img src="http://www.geocities.ws/nando_loureiro/imagens/MH2015%20-%201.jpg" />
 
 
