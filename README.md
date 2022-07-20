@@ -22,7 +22,7 @@ API_KEY_PRIVATE Pode ser gerado no site da Marvel API `Marvel`
 # Rodar Localmente
 Clone o projeto
 
-  git clone https://github.com/jailsonprado/Marvel-Comics
+  git clone https://github.com/tiagow8/Teste-Marvel-Api-Frontend.git
 
 Instale as dependências
 
